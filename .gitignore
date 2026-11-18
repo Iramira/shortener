@@ -1,0 +1,7 @@
+/shortener
+/shortener.exe
+*.test
+coverage.out
+cover.html
+cookies.txt
+.vscode/
